@@ -51,9 +51,9 @@ DEX：
 * chainge。<https://dapp.chainge.finance/?fromChain=ETH&toChain=ZKSYNC&fromToken=ETH&toToken=ETH>
 
 nft 市场：
-* Element NFT Marketplace<https://launchpad.smartlayer.network>
-* Smart Layer Launchpad<https://launchpad.smartlayer.network>
-* Micro3<https://app.micro3.io>
-* Tabi<https://tabi.lol>
-* Kreatorland<https://kreatorland.com>
+* Element NFT Marketplace <https://launchpad.smartlayer.network>
+* Smart Layer Launchpad <https://launchpad.smartlayer.network>
+* Micro3 <https://app.micro3.io>
+* Tabi <https://tabi.lol>
+* Kreatorland <https://kreatorland.com>
 * zkMarkets <https://zkmarkets.com/scroll-mainnet>
